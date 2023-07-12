@@ -5,7 +5,7 @@ by [@carlosmr12](https://twitter.com/carlosmr12)
 
 ## Colab Notebooks
 
-The material is divided into classification and regression and can be accessed via [Google Colab Notebooks](https://colab.research.google.com/github/carlosmr12/compbioasia2023/blob/master/lecture1_classification.ipynb).
+The material is divided into classification and regression and can be accessed via [Google Colab Notebooks](https://colab.research.google.com/github/carlosmr12/compbioasia2023/blob/master/intro2ml.ipynb).
 
 ## Local installation
 
