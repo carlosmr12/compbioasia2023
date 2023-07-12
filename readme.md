@@ -1,13 +1,11 @@
 # CompBioAsia 2023
-## Machine Learning Workshop - Exploring small molecule potency
+## Introduction to Machine Learning Workshop - Exploring small molecule potency
 
-by [@carlosmr12](https://twitter.com/carlosmr12) & [@alexgcsa](https://twitter.com/alexgcsa)
+by [@carlosmr12](https://twitter.com/carlosmr12)
 
 ## Colab Notebooks
 
-The material is divided into classification and regression and can be accessed via Google Colab Notebooks:
-- [Classification colab](https://colab.research.google.com/github/carlosmr12/compbioasia2023/blob/master/lecture1_classification.ipynb)
-- [Regression colab](https://colab.research.google.com/github/carlosmr12/compbioasia2023/blob/master/lecture2_regression.ipynb)
+The material is divided into classification and regression and can be accessed via [Google Colab Notebooks](https://colab.research.google.com/github/carlosmr12/compbioasia2023/blob/master/lecture1_classification.ipynb).
 
 ## Local installation
 
